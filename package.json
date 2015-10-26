@@ -1,0 +1,40 @@
+{
+  "name": "sonic-shuffle",
+  "version": "1.0.0",
+  "description": "A recombinant music and SFX system originally developed for eyewire.org",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seung-lab/sonic-shuffle.git"
+  },
+  "keywords": [
+    "audio",
+    "music",
+    "sfx",
+    "mx",
+    "bgm",
+    "sound",
+    "sonic",
+    "howler.js",
+    "eyewire",
+    "ogg",
+    "mp3",
+    "wav",
+    "webaudio"
+  ],
+  "author": "William Silversmith <william.silversmith+npm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seung-lab/sonic-shuffle/issues"
+  },
+  "homepage": "https://github.com/seung-lab/sonic-shuffle#readme",
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.4.2"
+  }
+}
